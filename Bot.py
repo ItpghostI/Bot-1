@@ -50,4 +50,4 @@ async def kick(ctx, user: discord.Member):
     print ("Un joueur a était viré")
 
 
-bot.run(str(os.environ.get('BOT_TOKEN')))
+bot.run("NDQ4MTgxNDAwNDU4NDkzOTcy.DeS-AA.aEaGUdn5WXKiKRhcTLhBd9m-bjk")
