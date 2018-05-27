@@ -3,3 +3,4 @@ asyncio
 pymoe
 request
 simplejson
+chalk
